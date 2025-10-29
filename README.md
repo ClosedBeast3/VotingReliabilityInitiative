@@ -32,8 +32,6 @@ U.S. elections face reliability challenges that stem from a mix of technical, op
 
 ## Requirements
 
-**Assumptions locked in:** Platform layered on paper-based workflows; prioritize integrity & verifiability → privacy → availability/UX; pilotable at county/state levels; vendor‑neutral, open standards.
-
 ### Must Have (M)
 
 * Preserve voter‑verifiable **paper ballots** as ground truth; no change to certified scanners/BMDs.
