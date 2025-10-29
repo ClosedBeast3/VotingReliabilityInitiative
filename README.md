@@ -1,5 +1,3 @@
-# VotingReliabilityInitiative
-
 # SPEC-1-US Voting Reliability Initiative
 
 ## Background
