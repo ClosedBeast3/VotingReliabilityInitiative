@@ -72,6 +72,3 @@ U.S. elections face reliability challenges that stem from a mix of technical, op
 * Any linkage of ballots to voter identity or location beyond what is required for audit sampling.
 * Live precinct-level vote counts before polls close; no speculative projections.
 * Proprietary, unverifiable black-box components in the critical path.
-
-(Next: **Method** — architecture, components, data schemas, and algorithms. I’ll proceed using these requirements unless you want changes.)
-
